@@ -8,4 +8,4 @@ This repository is a collection of materials and code created by [@prabeenthapa]
 
 ## Acknowledgments
 
-Special thanks to mentor [Sandesh Bashyal ](https://github.com/SandeshBashyal) and[ICES_Team](https://www.facebook.com/icesnepal) for providing this excellent mentorship.
+Special thanks to mentor [Sandesh Bashyal ](https://github.com/SandeshBashyal) and [ICES_Team](https://www.facebook.com/icesnepal) for providing this excellent mentorship.
